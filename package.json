@@ -1,0 +1,28 @@
+{
+  "name": "react-static-gen",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "babel-node serve.js",
+    "build": "babel-node build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.5.4",
+    "@babel/node": "^7.5.0",
+    "@babel/plugin-proposal-do-expressions": "^7.2.0",
+    "@babel/plugin-proposal-optional-chaining": "^7.2.0",
+    "@babel/preset-env": "^7.5.4",
+    "@babel/preset-react": "^7.0.0",
+    "@emotion/core": "^10.0.14",
+    "@emotion/styled": "^10.0.14",
+    "babel-plugin-inline-react-svg": "^1.1.0",
+    "babel-plugin-preval": "^3.0.1",
+    "browser-sync": "^2.26.7",
+    "lodash": "^4.17.14",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}

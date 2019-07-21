@@ -1,0 +1,16 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+a img {
+  border: none;
+}
+body {
+  background-color: #ffffff;
+  font-size: medium;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#container {
+  width: 100%;
+}
