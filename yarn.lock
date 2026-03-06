@@ -1812,8 +1812,8 @@ ignore-walk@^3.0.1:
     minimatch "^3.0.4"
 
 immutable@^3:
-  version "3.8.2"
-  resolved "https://registry.yarnpkg.com/immutable/-/immutable-3.8.2.tgz#c2439951455bb39913daf281376f1530e104adf3"
+  version "3.8.3"
+  resolved "https://registry.yarnpkg.com/immutable/-/immutable-3.8.3.tgz#0a8d2494a94d4b2d4f0e99986e74dd25d1e9a859"
 
 import-fresh@^2.0.0:
   version "2.0.0"
